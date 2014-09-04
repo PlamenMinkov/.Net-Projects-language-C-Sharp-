@@ -1,0 +1,15 @@
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\bin\Debug\Gassoline.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\bin\Debug\Gassoline.exe
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\bin\Debug\Gassoline.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\obj\Debug\Gassoline.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\obj\Debug\Gassoline.Form1.resources
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\obj\Debug\Gassoline.Properties.Resources.resources
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\obj\Debug\Gassoline.csproj.GenerateResource.Cache
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\obj\Debug\Gassoline.exe
+c:\users\plamen\documents\visual studio 2012\Projects\Gassoline\Gassoline\obj\Debug\Gassoline.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Gassoline\Gassoline\bin\Debug\Gassoline.exe.config
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Gassoline\Gassoline\obj\Debug\Gassoline.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Gassoline\Gassoline\obj\Debug\Gassoline.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Conversion from litre of 100km. to mile of gallone\Gassoline\bin\Debug\Gassoline.exe.config
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Conversion from litre of 100km. to mile of gallone\Gassoline\obj\Debug\Gassoline.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Conversion from litre of 100km. to mile of gallone\Gassoline\obj\Debug\Gassoline.pdb

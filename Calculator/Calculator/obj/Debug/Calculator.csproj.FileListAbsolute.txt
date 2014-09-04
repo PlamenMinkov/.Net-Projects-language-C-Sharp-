@@ -1,0 +1,27 @@
+D:\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\C#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+I:\Calculator\Calculator\bin\Debug\Calculator.exe.config
+I:\Calculator\Calculator\obj\Debug\Calculator.exe
+I:\Calculator\Calculator\obj\Debug\Calculator.pdb
+I:\Calculator\Calculator\bin\Debug\Calculator.exe
+I:\Calculator\Calculator\bin\Debug\Calculator.pdb
+I:\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+I:\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+I:\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+I:\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache

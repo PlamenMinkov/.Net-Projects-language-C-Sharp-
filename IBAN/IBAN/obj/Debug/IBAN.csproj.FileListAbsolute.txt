@@ -1,0 +1,27 @@
+E:\IBAN\IBAN\bin\Debug\IBAN.exe.config
+E:\IBAN\IBAN\obj\Debug\IBAN.csprojResolveAssemblyReference.cache
+E:\IBAN\IBAN\bin\Debug\IBAN.exe
+E:\IBAN\IBAN\bin\Debug\IBAN.pdb
+E:\IBAN\IBAN\obj\Debug\IBAN.exe
+E:\IBAN\IBAN\obj\Debug\IBAN.pdb
+H:\IBAN\IBAN\bin\Debug\IBAN.exe.config
+H:\IBAN\IBAN\obj\Debug\IBAN.exe
+H:\IBAN\IBAN\obj\Debug\IBAN.pdb
+H:\IBAN\IBAN\bin\Debug\IBAN.exe
+H:\IBAN\IBAN\bin\Debug\IBAN.pdb
+H:\IBAN\IBAN\obj\Debug\IBAN.csprojResolveAssemblyReference.cache
+I:\IBAN\IBAN\bin\Debug\IBAN.exe.config
+I:\IBAN\IBAN\obj\Debug\IBAN.exe
+I:\IBAN\IBAN\obj\Debug\IBAN.pdb
+I:\IBAN\IBAN\bin\Debug\IBAN.exe
+I:\IBAN\IBAN\bin\Debug\IBAN.pdb
+I:\IBAN\IBAN\obj\Debug\IBAN.csprojResolveAssemblyReference.cache
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\IBAN\IBAN\bin\Debug\IBAN.exe.config
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\IBAN\IBAN\obj\Debug\IBAN.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\IBAN\IBAN\obj\Debug\IBAN.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\IBAN\IBAN\bin\Debug\IBAN.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\IBAN\IBAN\bin\Debug\IBAN.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\IBAN\IBAN\obj\Debug\IBAN.csprojResolveAssemblyReference.cache
+E:\Programing and Programing Materials\SoftUni\0.C#\Git of .Net Projects\.Net-Projects-language-C-Sharp-\IBAN\IBAN\bin\Debug\IBAN.exe.config
+E:\Programing and Programing Materials\SoftUni\0.C#\Git of .Net Projects\.Net-Projects-language-C-Sharp-\IBAN\IBAN\obj\Debug\IBAN.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Git of .Net Projects\.Net-Projects-language-C-Sharp-\IBAN\IBAN\obj\Debug\IBAN.pdb

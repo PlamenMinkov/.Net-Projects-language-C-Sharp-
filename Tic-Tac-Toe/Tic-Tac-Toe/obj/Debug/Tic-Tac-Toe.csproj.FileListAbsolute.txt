@@ -1,0 +1,27 @@
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\fmi\Desktop\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+I:\PlamenMinkov\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+E:\Programing and Programing Materials\SoftUni\0.C#\Plovdiv .Net\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
